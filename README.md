@@ -1,9 +1,14 @@
 4/vercel -v
+
 5/npx create-react-app deployapp
+
 6/cd deployapp
 vercel
+
 7/ vercel list
+
 8/vercel log
+
 9/récupérer les informations concernant un déploiement 
 
 10/les variables d'environnement sont des variables qui permettent de changer le fonctionnement de l'application en fonction de l'environnement dans lequel elle fonctionne.
